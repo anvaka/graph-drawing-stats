@@ -4,7 +4,8 @@
   "description": "Graph drawing libraries statistics",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "graph",
@@ -15,5 +16,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/graph-drawing-stats"
+  },
+  "dependencies": {
+    "bluebird": "^2.2.2",
+    "express": "^4.6.1",
+    "moment": "^2.7.0",
+    "request": "^2.37.0"
   }
 }
