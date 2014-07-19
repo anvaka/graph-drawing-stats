@@ -1,0 +1,19 @@
+{
+  "name": "graph-drawing-stats",
+  "version": "0.0.0",
+  "description": "Graph drawing libraries statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graph",
+    "heroku"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/graph-drawing-stats"
+  }
+}
