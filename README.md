@@ -1,6 +1,6 @@
 # graph-drawing-stats
 
-Graph drawing libraries statistics. This is a simple heroku application
+Graph drawing libraries statistics server. This is a simple Heroku application
 which collects github statistics for well-known graph drawing libraries.
 
 * The rest end point is available here: http://gh-graph-stats.herokuapp.com/githubstats/
